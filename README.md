@@ -25,4 +25,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/library-management.git
+   git clone https://github.com/Erezhep/library-management
